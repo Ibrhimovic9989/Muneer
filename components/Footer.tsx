@@ -16,7 +16,7 @@ export default function Footer() {
             <p className="text-[10px] uppercase tracking-[0.24em] text-bone/40 mb-3">
               The practitioner
             </p>
-            <p className="text-[12.5px] leading-[1.6] text-bone/65 max-w-[420px]">
+            <p className="text-[12.5px] leading-[1.6] text-bone/65 max-w-[420px] prose-j">
               CA Muneer Ahmed, FCA. Founder &amp; Managing Partner of Muneer
               &amp; Associates, Chartered Accountants — Hyderabad, India.
               Practising since 2010.

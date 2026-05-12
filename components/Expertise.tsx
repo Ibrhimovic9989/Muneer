@@ -59,7 +59,7 @@ export default function Expertise() {
                 <h3 className="font-display text-[20px] lg:text-[22px] tracking-tightest leading-[1.15] font-medium mb-2">
                   {a.t}
                 </h3>
-                <p className="text-[12.5px] leading-[1.55] text-ink/65">
+                <p className="text-[12.5px] leading-[1.55] text-ink/65 prose-j">
                   {a.d}
                 </p>
                 <span className="absolute left-6 lg:left-8 right-6 lg:right-8 bottom-0 h-px bg-amber scale-x-0 group-hover:scale-x-100 origin-left transition-transform duration-700 ease-[cubic-bezier(0.16,1,0.3,1)]" />

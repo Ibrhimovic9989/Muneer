@@ -115,7 +115,7 @@ export default function Advisory() {
               The C-suite seat,<br />
               on a retainer.
             </h3>
-            <p className="text-[13px] leading-[1.6] text-ink/75 max-w-[360px]">
+            <p className="text-[13px] leading-[1.6] text-ink/75 max-w-[360px] prose-j">
               Senior-level financial leadership that is commercially astute,
               technically sound, and tailored to each client&rsquo;s situation.
             </p>
