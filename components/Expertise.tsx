@@ -32,7 +32,7 @@ export default function Expertise() {
             </h2>
           </div>
           <div className="lg:col-span-5 lg:col-start-8 flex items-end">
-            <p className="text-[15px] leading-[1.55] text-ink/75 text-balance">
+            <p className="text-[15px] leading-[1.55] text-ink/75 prose-j">
               Audit, taxation and advisory remain the trunk of the practice — but
               fifteen years has grown branches into ERP architecture, Gulf
               jurisdictions, US tax, insolvency, and cross-border structuring.

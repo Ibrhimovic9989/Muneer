@@ -60,7 +60,7 @@ export default function Hero() {
 
             {/* Subtitle row */}
             <div className="mt-6 lg:mt-8 flex flex-col sm:flex-row sm:items-end gap-3 sm:gap-6">
-              <p className="text-[14px] lg:text-[16px] tracking-tight text-ink/85 max-w-[560px] text-balance">
+              <p className="text-[14px] lg:text-[16px] tracking-tight text-ink/85 max-w-[560px] prose-j">
                 Chartered Accountant. Founder &amp; Managing Partner of{" "}
                 <span className="text-ink">Muneer &amp; Associates</span>,
                 Hyderabad. Fifteen years and twenty-five thousand crore in audited
@@ -85,7 +85,7 @@ export default function Hero() {
                   className="absolute inset-0 mix-blend-multiply opacity-30 pointer-events-none"
                   style={{
                     background:
-                      "linear-gradient(180deg, rgba(184,133,58,0.10) 0%, rgba(14,14,16,0.45) 100%)",
+                      "linear-gradient(180deg, rgb(var(--amber) / 0.10) 0%, rgb(14 14 16 / 0.45) 100%)",
                   }}
                 />
                 <div className="absolute top-3 left-3 right-3 flex items-start justify-between text-[9px] uppercase tracking-[0.24em] text-bone/85">

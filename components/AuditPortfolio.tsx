@@ -88,7 +88,7 @@ export default function AuditPortfolio() {
             </h2>
           </div>
           <div className="lg:col-span-4 lg:col-start-9 flex items-end">
-            <p className="text-[14px] leading-[1.6] text-ink/75 text-balance">
+            <p className="text-[14px] leading-[1.6] text-ink/75 prose-j">
               A representative cross-section of statutory audit engagements led
               over the last decade — from a fifteen-thousand-crore conglomerate
               to a Series A start-up. Each row, a separate trust.
@@ -173,7 +173,7 @@ export default function AuditPortfolio() {
           <div className="lg:col-span-1 font-mono text-[10px] tracking-[0.2em] text-smoke pt-1">
             ☞
           </div>
-          <p className="lg:col-span-11 leading-[1.6] text-balance max-w-[860px]">
+          <p className="lg:col-span-11 leading-[1.6] prose-j max-w-[860px]">
             In addition, more than eighty tax audits under §44AB, bank audits,
             internal audits, and concurrent audits across NBFC, cooperative, and
             government-aided organisations.

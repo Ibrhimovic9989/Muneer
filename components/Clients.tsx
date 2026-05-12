@@ -49,7 +49,7 @@ export default function Clients() {
           className="absolute inset-0"
           style={{
             backgroundImage:
-              "radial-gradient(circle at 15% 25%, #B8853A 0%, transparent 35%), radial-gradient(circle at 85% 75%, #B8853A 0%, transparent 35%)",
+              "radial-gradient(circle at 15% 25%, rgb(var(--amber)) 0%, transparent 35%), radial-gradient(circle at 85% 75%, rgb(var(--amber)) 0%, transparent 35%)",
           }}
         />
       </div>
@@ -66,7 +66,7 @@ export default function Clients() {
             </h2>
           </div>
           <div className="lg:col-span-4 lg:col-start-9 flex items-end">
-            <p className="text-[14px] leading-[1.6] text-bone/65 text-balance">
+            <p className="text-[14px] leading-[1.6] text-bone/65 prose-j">
               A genuinely diverse roster — by size, sector, ownership structure
               and life stage. Each client occupies a different chair at the
               table.

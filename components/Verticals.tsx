@@ -70,7 +70,7 @@ export default function Verticals() {
                 <h3 className="font-display text-[24px] lg:text-[30px] leading-[1.05] tracking-tightest font-medium mb-3">
                   {v.t}
                 </h3>
-                <p className="text-[13px] lg:text-[13.5px] leading-[1.6] text-ink/75 text-pretty">
+                <p className="text-[13px] lg:text-[13.5px] leading-[1.6] text-ink/75 prose-j">
                   {v.d}
                 </p>
               </div>

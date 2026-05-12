@@ -42,7 +42,7 @@ export default function Profile() {
               and quiet judgement.
             </h2>
 
-            <div className="space-y-5 text-[15.5px] lg:text-[16.5px] leading-[1.65] text-ink/85 text-pretty max-w-[680px]">
+            <div className="space-y-5 text-[15.5px] lg:text-[16.5px] leading-[1.65] text-ink/85 prose-j max-w-[680px]">
               <p>
                 CA Muneer Ahmed is a Fellow Chartered Accountant and the founder
                 of Muneer &amp; Associates, a financial consulting practice

@@ -72,7 +72,7 @@ export default function Standing() {
             </h2>
           </div>
           <div className="lg:col-span-5 lg:col-start-8 flex items-end">
-            <p className="text-[14.5px] leading-[1.6] text-ink/75 text-balance">
+            <p className="text-[14.5px] leading-[1.6] text-ink/75 prose-j">
               Memberships, advisory seats, faculty roles — the long, slower work
               of staying in the conversation that defines a profession.
             </p>
@@ -96,7 +96,7 @@ export default function Standing() {
               <h3 className="font-display text-[18px] lg:text-[20px] tracking-tightest leading-[1.2] font-medium mb-3">
                 {l.t}
               </h3>
-              <p className="text-[12px] leading-[1.6] text-ink/70 text-pretty">
+              <p className="text-[12px] leading-[1.6] text-ink/70 prose-j">
                 {l.d}
               </p>
             </div>

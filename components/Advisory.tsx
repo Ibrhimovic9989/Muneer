@@ -63,7 +63,7 @@ export default function Advisory() {
             </h2>
           </div>
           <div className="lg:col-span-4 lg:col-start-9 flex items-end">
-            <p className="text-[14px] leading-[1.6] text-ink/75 text-balance">
+            <p className="text-[14px] leading-[1.6] text-ink/75 prose-j">
               Acting Financial Consultant and Virtual CFO to more than forty
               companies — and counting more than fifteen start-ups guided from
               formation to funding.
@@ -81,7 +81,7 @@ export default function Advisory() {
               From idea, through<br />
               incorporation, into round.
             </h3>
-            <p className="text-[13.5px] leading-[1.6] text-ink/75 max-w-[460px]">
+            <p className="text-[13.5px] leading-[1.6] text-ink/75 max-w-[460px] prose-j">
               Notable engagements include a B2B Manufacturing company (Pre-Series
               ₹1 Cr raise), a healthcare diagnostic with a three-city expansion
               under PE backing, and a fintech lending platform.
@@ -138,7 +138,7 @@ export default function Advisory() {
                 <h4 className="font-display text-[16px] lg:text-[18px] tracking-tightest leading-[1.2] font-medium mb-2">
                   {c.t}
                 </h4>
-                <p className="text-[12px] leading-[1.55] text-ink/70 text-pretty">
+                <p className="text-[12px] leading-[1.55] text-ink/70 prose-j">
                   {c.d}
                 </p>
               </div>
