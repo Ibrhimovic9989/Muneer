@@ -17,14 +17,14 @@ const LEADERSHIP = [
   {
     badge: "120+",
     t: "Speaking & Training",
-    d: "Regular keynote speaker and workshop trainer on direct and indirect taxation, financial planning, ERP adoption, US and Gulf taxation frameworks, and entrepreneurial finance. Faculty at CA study circles, MBA programmes and industry conferences. Over one-hundred-twenty professionals trained across India and the Gulf.",
+    d: "Regular keynote speaker and workshop trainer on direct and indirect taxation, financial planning, ERP adoption, US and Gulf taxation frameworks, and entrepreneurial finance. Faculty at CA study circles, MBA programmes and industry conferences. Over one-hundred-twenty professionals trained across India, the USA and the Gulf.",
   },
 ];
 
 const QUALS = [
   "Fellow Chartered Accountant (FCA) — ICAI, India",
-  "CPA Candidate — AICPA, USA (in progress)",
-  "Gold Medal — Economics (academic distinction)",
+  "AI Tools · Accounting — data analytics & automation",
+  "State 3rd in Economics — highest marks, state board",
   "MS Dynamics AX Functional Consultant",
   "Diploma in Information Systems Audit (DISA) — ICAI",
 ];

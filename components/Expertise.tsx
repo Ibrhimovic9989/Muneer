@@ -1,16 +1,16 @@
 const AREAS = [
-  { t: "Statutory Audits & Compliance", d: "ICAI Standards on Auditing; CARO 2020; ICFR" },
-  { t: "Financial Reporting", d: "IFRS, Ind AS, US GAAP exposure" },
-  { t: "Direct & Indirect Tax", d: "Income Tax, GST, TDS, transfer pricing" },
-  { t: "ERP — Microsoft Dynamics AX", d: "Functional consulting; finance module design" },
-  { t: "International Taxation", d: "United States — IRS, Form 1040, DTAA" },
-  { t: "Business Architecture", d: "Process controls, SOPs, governance design" },
-  { t: "Gulf Taxation", d: "KSA Zakat & DZIT; UAE VAT" },
-  { t: "Virtual CFO & Board Reporting", d: "MIS, KPI dashboards, lender management" },
-  { t: "Corporate Finance & Valuations", d: "M&A, PE deal structuring, IPO readiness" },
-  { t: "HNI Wealth & Tax Planning", d: "Cross-border repatriation, estate" },
-  { t: "Insolvency & Restructuring", d: "IBC 2016 — CIRP, NCLT, voluntary liquidation" },
-  { t: "Payroll, ROC & Secretarial", d: "MCA filings, FEMA/RBI, FCRA" },
+  { t: "Statutory Audits & Compliance", d: "Companies Act 2013 · CARO 2020 · ICFR · ICAI standards" },
+  { t: "Direct & Indirect Tax", d: "Income tax, GST, TDS, assessments, appeals, planning" },
+  { t: "International Taxation — US", d: "IRS filings, Form 1040 / 1040NR, DTAA treaty planning" },
+  { t: "Gulf Taxation", d: "KSA Zakat & DZIT filings, UAE VAT, cross-border structuring" },
+  { t: "Corporate Finance & Valuations", d: "Due diligence, M&A and PE deals, IPO readiness, modelling" },
+  { t: "Insolvency & Restructuring", d: "IBC 2016, CIRP, debt restructuring, NCLT/IBBI compliance" },
+  { t: "Financial Reporting & IFRS", d: "Ind AS conversion, consolidation, technical accounting" },
+  { t: "ERP — MS Dynamics AX", d: "Functional consulting, GL design, workflow, reporting" },
+  { t: "Business Architecture & Controls", d: "SOPs, approval matrices, internal control frameworks" },
+  { t: "Virtual CFO & Board Reporting", d: "KPI packs, MIS, cash flow, banker & investor relations" },
+  { t: "HNI Wealth & Tax Planning", d: "Estate structuring, NRI repatriation, residency planning" },
+  { t: "Payroll, ROC & Secretarial", d: "End-to-end statutory administration for growing entities" },
 ];
 
 export default function Expertise() {
@@ -34,7 +34,7 @@ export default function Expertise() {
           <div className="lg:col-span-5 lg:col-start-8 flex items-end">
             <p className="text-[15px] leading-[1.55] text-ink/75 prose-j">
               Audit, taxation and advisory remain the trunk of the practice — but
-              fifteen years has grown branches into ERP architecture, Gulf
+              thirteen years has grown branches into ERP architecture, Gulf
               jurisdictions, US tax, insolvency, and cross-border structuring.
             </p>
           </div>

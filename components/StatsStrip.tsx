@@ -1,10 +1,10 @@
 const STATS = [
-  { v: "15+", k: "Years", sub: "Domain expertise" },
-  { v: "40+", k: "Companies", sub: "Advised as CFO" },
-  { v: "₹25K+ Cr", k: "Audit Turnover", sub: "Combined statutory" },
+  { v: "13+", k: "Years", sub: "Domain expertise" },
+  { v: "40+", k: "Companies", sub: "Advised as Virtual CFO" },
+  { v: "₹25K Cr", k: "Audit Turnover", sub: "Combined, statutory led" },
   { v: "04", k: "Countries", sub: "Active practice" },
-  { v: "03", k: "Jurisdictions", sub: "International tax" },
-  { v: "01", k: "Gold Medal", sub: "Economics, academic" },
+  { v: "120+", k: "Trained", sub: "Finance professionals" },
+  { v: "3rd", k: "State Rank", sub: "Economics, board" },
 ];
 
 export default function StatsStrip() {

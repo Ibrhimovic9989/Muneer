@@ -17,7 +17,7 @@ export default function Profile() {
                 <span className="text-amber-dark">b.</span> Hyderabad, India
               </div>
               <div>
-                <span className="text-amber-dark">c.</span> Practising since 2010
+                <span className="text-amber-dark">c.</span> Practising since 2012
               </div>
               <div>
                 <span className="text-amber-dark">d.</span> Fellow of the ICAI
@@ -46,7 +46,7 @@ export default function Profile() {
               <p>
                 CA Muneer Ahmed is a Fellow Chartered Accountant and the founder
                 of Muneer &amp; Associates, a financial consulting practice
-                headquartered in Hyderabad. Across fifteen years of intensive
+                headquartered in Hyderabad. Across thirteen years of intensive
                 domain experience, he has led statutory audits of organisations
                 with aggregate combined turnover exceeding twenty-five thousand
                 crore — a portfolio that runs from early-stage technology
@@ -57,10 +57,10 @@ export default function Profile() {
                 As a Virtual CFO, cross-border tax authority, and strategic
                 business advisor, he brings a rare combination of technical
                 precision, commercial judgement, and international exposure to
-                each engagement. He holds a Gold Medal in Economics and a
-                functional consulting certification for Microsoft Dynamics AX —
-                an unusual pairing that gives him the ability to align financial
-                strategy with the operational systems that carry it.
+                each engagement. He holds the third state rank in Economics and
+                a functional consulting certification for Microsoft Dynamics AX
+                — an unusual pairing that gives him the ability to align
+                financial strategy with the operational systems that carry it.
               </p>
               <p>
                 The practice is built on three pillars: exceptional technical
@@ -68,9 +68,10 @@ export default function Profile() {
                 commitment to client outcomes. He has advised businesses from
                 inception to IPO readiness, restructured organisations in
                 financial distress, represented clients before the IRS and
-                Indian revenue authorities, and trained finance professionals
-                across India, the United States, and the Gulf. He sits on the
-                Executive Advisory Boards of several Trusts and Societies.
+                Indian revenue authorities, and trained over one-hundred-twenty
+                finance professionals across India, the United States, and the
+                Gulf. He sits on the Executive Advisory Boards of several
+                Trusts and Societies.
               </p>
             </div>
 

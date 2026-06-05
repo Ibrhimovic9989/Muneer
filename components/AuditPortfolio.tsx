@@ -90,8 +90,9 @@ export default function AuditPortfolio() {
           <div className="lg:col-span-4 lg:col-start-9 flex items-end">
             <p className="text-[14px] leading-[1.6] text-ink/75 prose-j">
               A representative cross-section of statutory audit engagements led
-              over the last decade — from a fifteen-thousand-crore conglomerate
-              to a Series A start-up. Each row, a separate trust.
+              over the last five years — ₹18,000 Cr+ in aggregate — from a
+              fifteen-thousand-crore conglomerate to a Series A start-up. Each
+              row, a separate trust.
             </p>
           </div>
         </div>

@@ -29,7 +29,7 @@ export default function Hero() {
               <span className="relative inline-flex rounded-full h-1.5 w-1.5 bg-amber" />
             </span>
             <span className="text-[10px] uppercase tracking-[0.28em] text-smoke">
-              FCA &nbsp;·&nbsp; Gold Medallist in Economics &nbsp;·&nbsp; ERP Consultant
+              FCA · ICAI &nbsp;·&nbsp; DISA &nbsp;·&nbsp; State 3rd, Economics &nbsp;·&nbsp; MS Dynamics AX
             </span>
           </div>
           <div className="hidden md:flex flex-col items-end gap-1.5 text-right text-[10px] uppercase tracking-[0.24em] text-smoke">
@@ -63,8 +63,8 @@ export default function Hero() {
               <p className="text-[14px] lg:text-[16px] tracking-tight text-ink/85 max-w-[560px] prose-j">
                 Chartered Accountant. Founder &amp; Managing Partner of{" "}
                 <span className="text-ink">Muneer &amp; Associates</span>,
-                Hyderabad. Fifteen years and twenty-five thousand crore in audited
-                turnover.
+                Hyderabad. Thirteen years and twenty-five thousand crore in
+                audited turnover, across four jurisdictions.
               </p>
             </div>
           </div>
@@ -94,7 +94,7 @@ export default function Hero() {
                 </div>
                 <div className="absolute bottom-3 left-3 right-3 flex items-end justify-between text-[9px] uppercase tracking-[0.24em] text-bone/85">
                   <span>FCA · ICAI</span>
-                  <span>Est. 2010</span>
+                  <span>Est. 2012</span>
                 </div>
               </div>
               <p className="mt-3 text-[10px] uppercase tracking-[0.22em] text-smoke text-right">
